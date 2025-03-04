@@ -69,6 +69,8 @@
 - Battle of Przasnysz
 - Battle of Sarnowa Góra
 - Battle of Białystok
+- Battle of Brodnica
+- Battle of Chełm
 - Battle of Zamość
 - Battle of Komarów
 - Battle of Hrubieszów
