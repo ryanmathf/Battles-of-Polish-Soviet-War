@@ -81,6 +81,15 @@
 - Battle of Zamość
 - Battle of Komarów
 - Battle of Hrubieszów
+- Battle of Kąkolewnica
+- Battle of Kock (1920)
+- Battle of Kolno (1920)
+- Battle of Łomża (August 1920)
+- Battle of Łopatyczi
+- Battle of Milewo
+- Battle of Mrozy
+- Battle of Myszyniec (1920)
+- Battle of Włocławek
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
