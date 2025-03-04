@@ -90,6 +90,12 @@
 - Battle of Mrozy
 - Battle of Myszyniec (1920)
 - Battle of Włocławek
+- Battle of Odolion
+- Battle of Ostrożany
+- Battle of Wkra River
+- Battle of Płońsk
+- Battle of Prosienica
+- Battle of Przasnysz
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
