@@ -104,7 +104,7 @@
 - Battle of Antoniw
 - Battle of Antopal
 - Battle of Bar (April 1920)
-- 
+- Battle of Baranowicze (1920)
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
