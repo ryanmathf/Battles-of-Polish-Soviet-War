@@ -113,6 +113,9 @@
 - Battle of Biłka Szlachecka
 - Battle of Babruysk (1919)
 - Battle of Bahuszewiczy
+- Battle of Borowe
+- Battle of Barysaw (1919)
+- Battle of Bibrka
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
