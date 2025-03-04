@@ -32,7 +32,8 @@
 - Battle of Romanów
 - Battle of Nowosiółki
 - Battle of Śnicka
-- Battle of Daugavpils
+- Battle of Daugavpils (1919)
+- Battle of Daugavpils (1920)
 - Battle of Pawłówka
 - Battle of Poliszczyn
 - Battle of Stodolicz
@@ -122,6 +123,14 @@
 - Lviv Operation
 - Battle of Khodoriv
 - Battle of Czerkasy
+- Battle of Czyżiwka
+- Battle of Dąbrowica
+- Battle of Dębe
+- Battle of Dorohusk
+- Battle of Dubrowna
+- Battle of Duniłowicze (June 1920)
+- Battle of Dywin
+- Battle of Dziuńków
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
