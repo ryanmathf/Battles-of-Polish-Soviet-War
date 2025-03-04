@@ -105,6 +105,12 @@
 - Battle of Antopal
 - Battle of Bar (April 1920)
 - Battle of Baranowicze (1920)
+- Battle of Berdychiv (April 1920)
+- Battle of Bereza (1920)
+- Battle of Białopole
+- Battle of Bierniki
+- Battle of Bilminy
+- Battle of Biłka Szlachecka
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
