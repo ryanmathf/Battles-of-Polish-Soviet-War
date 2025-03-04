@@ -115,7 +115,13 @@
 - Battle of Bahuszewiczy
 - Battle of Borowe
 - Battle of Barysaw (1919)
-- Battle of Bibrka
+- Battle of Bóbrka
+- Battle of Budsław
+- Battle of Busk
+- Battle of Butowce
+- Lviv Operation
+- Battle of Khodoriv
+- Battle of Czerkasy
 - Battle of Kobryń (1920)
 - Battle of Żabinka (July 1920)
 - Battle of Brzostowica
