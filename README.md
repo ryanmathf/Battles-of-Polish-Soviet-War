@@ -71,6 +71,13 @@
 - Battle of Białystok
 - Battle of Brodnica
 - Battle of Chełm
+- Battle of Cieloszka
+- Battle of Cyców
+- Battle of Drohiczyn (August 19, 1920)
+- Battle of Dubienka (1920)
+- Battle of Frankopol and Skrzeszew
+- Battle of Glinianka
+- Battle of Hrubieszów
 - Battle of Zamość
 - Battle of Komarów
 - Battle of Hrubieszów
